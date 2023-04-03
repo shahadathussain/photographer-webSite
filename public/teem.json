@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "img": "https://i.ibb.co/jJPZyHJ/Our-Teem-4.jpg",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "id": 2,
+    "name": "Patricia Lebsack",
+    "img": "https://i.ibb.co/VJkVDts/Our-Teem-6.jpg",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "img": "https://i.ibb.co/GMNF45V/Our-Teem-8.jpg",
+    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+  }
+]

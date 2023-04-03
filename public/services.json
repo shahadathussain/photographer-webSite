@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "price": 120,
+    "img": "https://www.nicepng.com/png/detail/416-4164238_video-camera-clipart-camra-canon-xf200-camcorder-1080p.png",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "id": 2,
+    "name": "Patricia Lebsack",
+    "price": 200,
+    "img": "https://images.unsplash.com/photo-1599533706820-b9a1b6725125?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FtZXJhJTIwcGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "price": 180,
+    "img": "https://petapixel.com/assets/uploads/2022/09/canon-5d-mark-iv-dslr.jpg",
+    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+  },
+  {
+    "id": 4,
+    "name": "Fatllama",
+    "price": 250,
+    "img": "https://assets.fatllama.com/images/medium/nikon-d610-d-70277922.JPG",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "id": 5,
+    "name": "Peakpx",
+    "price": 140,
+    "img": "https://w0.peakpx.com/wallpaper/827/782/HD-wallpaper-wow-camra-nikon.jpg",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+  },
+  {
+    "id": 6,
+    "name": "Thewirecutter",
+    "price": 210,
+    "img": "https://cdn.thewirecutter.com/wp-content/media/2022/08/mirrorlesscameras-2048px-8984.jpg",
+    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+  }
+]
